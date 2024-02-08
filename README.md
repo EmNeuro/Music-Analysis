@@ -1,6 +1,8 @@
 # Voice Classification with MFCC Features and Audio Analysis
 
-These are Google Colab scripts written for various music-related projects. This repo focuses on different aspects of music analysis such as classifying audio tracks as either containing voice or not using Mel-Frequency Cepstral Coefficients (MFCC) features to identify the presence of lyrics in music, or just decomposition of music, and identifying bpm etc. 
+These are Google Colab scripts written for various music-related projects (open in google colab for correct formatting). 
+
+This repo focuses on different aspects of music analysis such as classifying audio tracks as either containing voice or not using Mel-Frequency Cepstral Coefficients (MFCC) features to identify the presence of lyrics in music, or just decomposition of music, and identifying bpm, visualization of audio signals and spectrograms etc. 
 
 ## Installation
 
