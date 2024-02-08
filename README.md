@@ -1,6 +1,6 @@
 # Voice Classification with MFCC Features
 
-This project focuses on classifying audio tracks as either containing voice or not using Mel-Frequency Cepstral Coefficients (MFCC) features.
+These are Google Colab scripts written for various music-related projects. This repo focuses on different aspects of music analysis such as classifying audio tracks as either containing voice or not using Mel-Frequency Cepstral Coefficients (MFCC) features to identify the presence of lyrics in music, or just decomposition of music, and identifying bpm etc. 
 
 ## Installation
 
@@ -19,14 +19,21 @@ This project focuses on classifying audio tracks as either containing voice or n
 
 ## Usage
 
-1. Ensure your audio tracks are stored in the 'music' directory.
-2. Run the main script:
+For voice classification 
+1. Music can be downloaded here:
+
+   voiced https://www.jamendo.com/playlist/500608900/indie
+
+   no-voice https://www.jamendo.com/playlist/500605606/cool-instrumentals
+   
+3. Ensure your audio tracks are stored in the 'music' directory. 
+4. Run the main script:
 
     ```bash
     python voice_classification.py
     ```
 
-3. View the results and confusion matrix in the console.
+5. View the results and confusion matrix in the console.
 
 ## Features
 
